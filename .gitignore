@@ -1,0 +1,20 @@
+# Raw dataset archives
+data/classification/*.zip
+
+# Extracted patch images
+data/classification/OpenSARShip_1/
+data/classification/OpenSARShip_2/
+data/classification/FUSAR_Ship1.0/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
