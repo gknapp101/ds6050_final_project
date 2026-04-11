@@ -5,6 +5,12 @@ data/classification/*.zip
 data/classification/OpenSARShip_1/
 data/classification/OpenSARShip_2/
 data/classification/FUSAR_Ship1.0/
+data/classification/FuSARShip/
+
+# Flat image folders
+data/classification/os1/
+data/classification/os2/
+data/classification/fs/
 
 # Python
 __pycache__/
